@@ -8,7 +8,7 @@
 
     <IonContent class="ion-padding">
 
-      <!-- CARD FORMULÁRIO -->
+      
       <IonCard>
         <IonCardHeader>
           <IonCardTitle>Nova Tarefa</IonCardTitle>
@@ -37,7 +37,7 @@
         </IonCardContent>
       </IonCard>
 
-      <!-- CARD LISTA -->
+      
       <IonCard>
         <IonCardHeader>
           <IonCardTitle>
